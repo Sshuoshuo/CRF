@@ -1,6 +1,6 @@
 #coding:utf-8
 #训练数据集为"conll2002"
-
+#测试一下
 import nltk
 import sklearn_crfsuite
 from sklearn_crfsuite import metrics
